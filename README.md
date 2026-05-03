@@ -34,7 +34,7 @@ Each design pattern is organized into its own package, containing:
 
 For every design pattern, you will get:
 
-##### 1. Simple Explanation
+### 1. Simple Explanation
 
 A human-friendly explanation (no textbook jargon)
 
