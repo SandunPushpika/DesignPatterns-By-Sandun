@@ -1,6 +1,6 @@
 package org.example.observerpattern;
 
-public class WeatherStation {
+public class ObserverPattern {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
 
