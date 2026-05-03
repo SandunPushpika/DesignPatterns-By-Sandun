@@ -42,8 +42,8 @@ A human-friendly explanation (no textbook jargon)
 
 Examples like:
 
-* Job notifications (Observer)
-* Travel methods (Strategy)
+* Weather notifications (Observer)
+* Animal Behaviour methods (Strategy)
 * Payment systems, caching, etc.
 
 ### 3. Technical Definition
@@ -114,8 +114,8 @@ This repo is different:
 
 * Behavioral Patterns
 
-  * Observer
-  * Strategy
+  * [Observer](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/observerpattern)
+  * [Strategy](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/strategypattern)
   * Command
   * State
 
