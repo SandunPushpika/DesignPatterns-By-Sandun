@@ -109,7 +109,7 @@ This repo is different:
 * Structural Patterns
 
   * Adapter
-  * Decorator
+  * [Decorator](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/decoratorpattern)
   * Facade
 
 * Behavioral Patterns
