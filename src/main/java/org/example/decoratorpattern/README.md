@@ -23,3 +23,23 @@ subclassing for extending functionality.
 
 ## Usages
 A common usage of the Decorator Pattern is when you want to add optional features dynamically without changing the original class.
+
+**Real Java Examples**
+
+Java uses decorators heavily.
+Examples:
+```
+BufferedReader
+DataInputStream
+BufferedInputStream
+```
+
+Example:
+
+``` 
+BufferedReader reader = new BufferedReader(new FileReader("test.txt")); 
+```
+
+Internally:
+
+` BufferedReader -> FileReader `
