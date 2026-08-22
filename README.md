@@ -98,28 +98,30 @@ This repo is different:
 
 ---
 
-## Covered Patterns (Ongoing)
+## Covered Patterns
 
-* Creational Patterns
+* **Creational Patterns**
+  * [Singleton](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/singletonpattern)
+  * [Factory Method](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/factorypattern)
+  * [Builder](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/builderpattern)
+  * [Prototype](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/prototypepattern)
 
-  * Singleton
-  * Factory
-  * Builder
-
-* Structural Patterns
-
-  * Adapter
+* **Structural Patterns**
+  * [Adapter](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/adapterpattern)
   * [Decorator](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/decoratorpattern)
-  * Facade
+  * [Facade](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/facadepattern)
+  * [Composite](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/compositepattern)
+  * [Proxy](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/proxypattern)
+  * [Flyweight](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/flyweightpattern)
 
-* Behavioral Patterns
-
+* **Behavioral Patterns**
   * [Observer](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/observerpattern)
   * [Strategy](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/strategypattern)
-  * Command
-  * State
-
-*(More patterns will be added continuously)*
+  * [Command](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/commandpattern)
+  * [State](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/statepattern)
+  * [Interpreter](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/interpreterpattern)
+  * [Mediator](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/mediatorpattern)
+  * [Chain of Responsibility](https://github.com/SandunPushpika/DesignPatterns-By-Sandun/tree/main/src/main/java/org/example/chainofresponsibilities)
 
 ---
 
