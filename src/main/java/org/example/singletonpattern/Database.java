@@ -6,7 +6,7 @@ public class Database {
 
     private Database(){}
 
-    public static Database getInstance(){
+    public static synchronized Database getInstance(){
         if(db == null){
             db = new Database();
         }
