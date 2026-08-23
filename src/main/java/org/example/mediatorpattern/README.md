@@ -15,3 +15,11 @@ The Mediator Pattern defines an object that encapsulates how a set of objects in
 - **Mediator Interface** (`ChatMediator`): Defines an interface for communicating with Colleague objects.
 - **Concrete Mediator** (`ChatMediatorImpl`): Implements cooperative behavior by coordinating Colleague objects.
 - **Colleague Classes** (`User`, `UserImpl`): Each Colleague class knows its Mediator object, and communicates with its mediator whenever it would have otherwise communicated with another colleague.
+
+``
+NOTE: This mainly goes with Java Remote Method Invocation (RMI) in real world scenarios.
+``
+
+``
+This is not the MediateR used in DOT NET CORE.
+``
